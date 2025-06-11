@@ -1,25 +1,62 @@
-<h1 align="center">Hi, I'm Miras Abdishev 👋</h1>
+# 👋 Hi, I'm Miras Abdishev
 
-<p align="center">
-  🚀 Software Engineer | 💡 Full-Stack Developer | 🌐 Web & Mobile App Creator  
-</p>
-
-<p align="center">
-  <a href="mailto:guikhato@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/miras-abdishev/">LinkedIn</a> •
-  <a href="https://github.com/mirazik18">GitHub</a>
-</p>
+🎓 **Computer Science Graduate from Purdue University**  
+💻 **Full-Stack Developer | Software Engineer | Founder @ Zaryadka.kz**  
+🌐 [LinkedIn](https://www.linkedin.com/in/miras-abdishev) • [GitHub](https://github.com/mirazik18) • 📧 guikhato@gmail.com
 
 ---
 
-### 🔭 Currently Working On
-- **Zaryadka.kz** – A cross-platform EV charging mobile app built with Go (backend), React Native (frontend), MongoDB, AWS, Twilio, and OCPP protocol. Live on iOS App Store with 1,200+ downloads in 3 months.
-- **LegalDoc Pro** – An AI-powered assistant for lease and rental agreement analysis (NLP + summarization).
+## 🚀 About Me
+
+I'm a passionate software engineer with experience building scalable web and mobile applications. From launching an EV charging platform solo to contributing to enterprise systems, I thrive at the intersection of code, innovation, and impact. I enjoy building clean, reliable systems and love taking ownership from idea to production.
 
 ---
 
-### 👨‍💻 About Me
-```yaml
-🎓 Recent graduate from Purdue University – B.S. in Computer Science (May 2025)
-🌍 Based in the US (F-1 OPT eligible), open to relocation
-💬 I enjoy building scalable systems, modern web and mobile applications, and solving real-world problems with tech
+## 🛠 Tech Stack
+
+- **Languages:** C#, Java, JavaScript, Python, Dart, C/C++, PHP, SQL, Go  
+- **Frameworks:** .NET Core, Laravel, Angular, React Native, Flutter, Unity  
+- **Cloud & Tools:** AWS (Lambda, EC2), Azure, Docker, MongoDB, MySQL, Firebase, GitHub Actions  
+- **DevOps & Infra:** Linux CLI, Bash Scripting, Vercel, Git, Bitbucket  
+- **Web & API:** REST, HTML, CSS, Firestore, Twilio, OCPP  
+
+---
+
+## 🔭 Current Projects
+
+- 🚘 **[Zaryadka.kz](#)** – Founder of a live EV charging platform enabling users to locate, reserve, and control electric vehicle chargers via mobile app.  
+  - Tech: Go, MongoDB, AWS, React Native, Twilio, OCPP  
+  - 1200+ iOS downloads in 3 months
+
+- 📄 **LegalDoc Pro** – An AI Assistant for Lease & Rental Agreement Analysis using NLP and GPT
+
+---
+
+## 🧠 I’m Currently Learning
+
+- Distributed systems  
+- Advanced TypeScript & tRPC  
+- AI integrations with real-world apps  
+- Rust for system-level applications
+
+---
+
+## 📌 Featured Projects
+
+- 🔌 **Zaryadka.kz** – Scalable EV charging app with real-time hardware interaction
+- 🍽️ **Doordash for Purdue** – Mobile ordering app for Purdue dining halls (Flutter + Firebase)
+- 🧠 **Custom Linux Shell** – Systems programming in C, with process management and piping
+- 🩺 **Diabetes Game** – Educational Unity game for diabetes awareness in Kazakhstan
+
+---
+
+
+
+## 📬 Get in Touch
+
+- 💼 I'm open to full-time roles, internships, and collaborations!
+- 💬 Let's talk about software, startups, or cool tech.
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
