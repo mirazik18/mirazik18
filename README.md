@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate from Purdue University**  
 💻 **Full-Stack Developer | Software Engineer | Founder @ Zaryadka.kz**  
-🌐 [LinkedIn](https://www.linkedin.com/in/miras-abdishev) • [GitHub](https://github.com/mirazik18) • 📧 guikhato@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/miras-abdishev) • [GitHub](https://github.com/mirazik18) 
 
 ---
 
