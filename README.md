@@ -28,7 +28,7 @@ I'm a passionate software engineer with experience building scalable web and mob
   - Tech: Go, MongoDB, AWS, React Native, Twilio, OCPP  
   - 1200+ iOS downloads in 3 months
 
-- 📄 **LegalDoc Pro** – An AI Assistant for Lease & Rental Agreement Analysis using NLP and GPT
+- 📄 **[FactLens-AI](https://github.com/mirazik18/FaseLens-AI)** – A full-stack AI-powered web application that fetches news articles, analyzes their political bias and credibility using NLP models, and presents key insights via an interactive React + FastAPI interface.
 
 ---
 
