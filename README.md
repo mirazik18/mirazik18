@@ -24,7 +24,7 @@ I'm a passionate software engineer with experience building scalable web and mob
 
 ## 🔭 Current Projects
 
-- 🚘 **[Zaryadka.kz](#)** – Founder of a live EV charging platform enabling users to locate, reserve, and control electric vehicle chargers via mobile app.  
+- 🚘 **[Zaryadka.kz](https://apps.apple.com/us/app/zaryadka-kz/id6590619908)** – Founder of a live EV charging platform enabling users to locate, reserve, and control electric vehicle chargers via mobile app.  
   - Tech: Go, MongoDB, AWS, React Native, Twilio, OCPP  
   - 1200+ iOS downloads in 3 months
 
