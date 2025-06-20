@@ -44,7 +44,7 @@ I'm a passionate software engineer with experience building scalable web and mob
 ## 📌 Featured Projects
 
 - 🔌 **Zaryadka.kz** – Scalable EV charging app with real-time hardware interaction
-- 🍽️ **Doordash for Purdue** – Mobile ordering app for Purdue dining halls (Flutter + Firebase)
+- 🍽️ **[Doordash for Purdue](https://github.com/mirazik18/Purdue-Dash)** – Mobile ordering app for Purdue dining halls (Flutter + Firebase)
 - 🧠 **Custom Linux Shell** – Systems programming in C, with process management and piping
 - 🩺 **Diabetes Game** – Educational Unity game for diabetes awareness in Kazakhstan
 
