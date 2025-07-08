@@ -58,5 +58,3 @@ I'm a passionate software engineer with experience building scalable web and mob
 - 💬 Let's talk about software, startups, or cool tech.
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
